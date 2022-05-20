@@ -3,5 +3,7 @@ import "@hotwired/turbo-rails"
 import "controllers"
 
 import "custom/ajquery.min"
-
+import "custom/bbrowser.min"
+import "custom/cbreakpoints.min"
 import "custom/dutil"
+import "custom/emain"
